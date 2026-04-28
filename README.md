@@ -36,4 +36,4 @@ https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv
 
 ## Live Dashboard
 
-busy in course, will update asap.
+Sorry for the delay
